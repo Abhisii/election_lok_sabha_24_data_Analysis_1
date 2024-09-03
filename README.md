@@ -1,11 +1,11 @@
 # Lok Sabha Election 2024 Analysis 
-Project Overview
+## Project Overview
 This project analyzes the Lok Sabha election results to provide insights into the distribution of seats among various political parties. The analysis includes:
 
-Key Insights
+## Key Insights
 Total Number of Constituencies: The dataset covers all constituencies in the Lok Sabha election, providing a comprehensive view of the electoral landscape.
 
-Seats Won by Major Parties:
+## Seats Won by Major Parties:
 
 Bharatiya Janata Party (BJP): 240 seats
 Indian National Congress (INC): 99 seats
@@ -14,7 +14,7 @@ Top 10 Parties: The analysis highlights the top 10 parties based on the number o
 
 Vote Share Distribution: Detailed distribution of vote share percentages among the parties, showing how votes were spread across the different political entities.
 
-Tools and Technologies
+## Tools and Technologies
 Python Libraries: Used for data cleaning and transformation. Libraries such as Pandas and NumPy facilitated data manipulation, while Matplotlib and Seaborn were employed for visualization.
 
 Power BI: Utilized to create an interactive dashboard that showcases the key insights and visualizations. The dashboard allows for dynamic exploration of the election data, highlighting seat distribution, vote shares, and top parties.
