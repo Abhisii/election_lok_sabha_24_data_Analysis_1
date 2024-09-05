@@ -12,7 +12,7 @@ This project analyzes the Lok Sabha election results to provide insights into th
   - **Indian National Congress (INC)**: 99 seats
   - **Other Parties**: 204 seats
 
-- **Top 10 Parties**: The analysis highlights the top 10 parties based on the number of seats won, offering a snapshot of the leading contenders in the election.
+- **Top 5 Parties**: The analysis highlights the top 5 parties based on the number of seats won, offering a snapshot of the leading contenders in the election.
 
 - **Vote Share Distribution**: Detailed distribution of vote share percentages among the parties, showing how votes were spread across the different political entities.
 
